@@ -8,4 +8,4 @@
 <p>I completed my inter in NRI JUNIOR COLLEGE with 96%.</p>
 <p>I completed my SSC in SRI RAMAKRISHNA ENGLISH MEDIUM HIGH SCHOOL with cgpa of 9.2.</p>
 <p>Coming to my family bakground, my mother and my father are daily workers.</p>
-<p>My goal is to make them happy.</p>
+<p>My goal is to make them happy and feel proud</p>
